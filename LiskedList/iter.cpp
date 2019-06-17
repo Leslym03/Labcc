@@ -5,9 +5,6 @@ template <class T>
 class Linkedlist;
 
 template <class T>
-class Nodo;
-
-template <class T>
 class Nodo{
     private:
         friend class Linkedlist<T>;
